@@ -1,0 +1,13 @@
+.cardDetails{
+    width: 280px;
+    height: 500px;
+    border: 2px solid black;
+    margin-top: 20px;
+    position: relative;
+}
+.btnSt{
+    position: absolute;
+}
+.textSt{
+    padding: 15px;
+}
